@@ -1,4 +1,4 @@
-#local-regularization
+# local-regularization
 i just tried implementing the idea behind the paper [Offline Multi-Agent Reinforcement Learning with Implicit Global-to-Local Value Regularization](https://arxiv.org/abs/2307.11620)" 
 
 - the principle behind the implementation is OMIGA provides a principled framework to convert global-level value regularization into equivalent implicit local value regularizations and simultaneously enables in-sample learning, thus elegantly bridging multi-agent value decomposition and policy learning with offline regularizations tldr; an online multi-agent RL.
